@@ -10,3 +10,4 @@
 5. XML→GeoJSON変換ツール by [svgmap](https://github.com/svgmap) **[MojMapGML2GeoJSON.js](https://github.com/amx-project/MojMapGML2GeoJSON.js)** Fork
 
 6. XML→SIMA変換ツール by [xml2sima](https://www.n-survey.com/converttool2.zip) **[ConvertTool2.xlsm](https://www.n-survey.com/converttool2.zip)** Fork
+7. ベクトルタイル　[amx-a](https://github.com/amx-project/a)

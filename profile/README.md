@@ -15,6 +15,8 @@
 
 8. kuwanauchiアーカイブデータの集計と分析 by [sakaik](https://github.com/sakaik), **[登記所備付地図データダイジェスト](https://github.com/amx-project/kuwanauchi_xml_digest)** Fork
 
+9. 法務省地図XML Viewer by [Geolonia](https://github.com/geolonia), **[登記所備付地図データ用 XML Viewer](https://github.com/amx-project/chiban-viewer)** Fork
+
 ---
 
 ## 我々の成果を活用した事例

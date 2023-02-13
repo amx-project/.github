@@ -15,5 +15,5 @@
 ---
 
 ## 我々の成果を活用した事例
-* [今ここ何番地？ （法務省地図 on Maplibre） by 土地家屋調査士 白土洋介氏](https://office-shirado.github.io/Moj_Maps/): https://office-shirado.github.io/Moj_Maps/
-* [登記所備付地図データ 公共座標整理状況マップ by Geolonia](https://geolonia.github.io/chiban-zahyo-map/): https://geolonia.github.io/chiban-zahyo-map/
+* [今ここ何番地？ （法務省地図 on Maplibre） by 土地家屋調査士 白土洋介氏](https://office-shirado.github.io/Moj_Maps/) : https://office-shirado.github.io/Moj_Maps/
+* [登記所備付地図データ 公共座標整理状況マップ by Geolonia](https://geolonia.github.io/chiban-zahyo-map/) : https://geolonia.github.io/chiban-zahyo-map/

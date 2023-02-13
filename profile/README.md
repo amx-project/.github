@@ -18,6 +18,7 @@
 * [法務省地図XMLベクトルタイル配信 amx-a on IPFS](https://amx-project.github.io/a/#4.75/40.67/140.35) by hfu https://amx-project.github.io/a/
 * [今ここ何番地？ （法務省地図 on Maplibre）](https://office-shirado.github.io/Moj_Maps/) by 土地家屋調査士 白土洋介氏 https://office-shirado.github.io/Moj_Maps/
 * [登記所備付地図データ 公共座標整理状況マップ](https://geolonia.github.io/chiban-zahyo-map/) by Geolonia https://geolonia.github.io/chiban-zahyo-map/
+* [登記所備付地図データダイジェスト](https://github.com/sakaik/kuwanauchi_xml_digest) by sakaik https://github.com/sakaik/kuwanauchi_xml_digest
 
 ## 発表資料
 * [緊急企画：法務省地図XMLハックナイト〜奥深き公図の世界にようこそ〜](https://www.youtube.com/live/1_q18JNoURk?feature=share) by Code for Japan

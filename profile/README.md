@@ -20,10 +20,14 @@
 ---
 
 ## 我々の成果を活用した事例
+### 再配布系
 * [法務省地図XMLベクトルタイル配信 amx-a on IPFS](https://amx-project.github.io/a/#4.75/40.67/140.35) by hfu https://amx-project.github.io/a/
-* [登記所備付地図データ用 XML Viewer](https://geolonia.github.io/chiban-viewer/) by Geolonia https://geolonia.github.io/chiban-viewer/
+### 閲覧ツール
 * [今ここ何番地？ （法務省地図 on Maplibre）](https://office-shirado.github.io/Moj_Maps/) by 土地家屋調査士 白土洋介氏 https://office-shirado.github.io/Moj_Maps/
 * [法務省地図XML（PMTiles） MojMap](https://shi-works.github.io/MojMap/) by shi-works https://shi-works.github.io/MojMap/
+### 変換ツール
+* [登記所備付地図データ用 XML Viewer](https://geolonia.github.io/chiban-viewer/) by Geolonia https://geolonia.github.io/chiban-viewer/
+### 分析ツール
 * [登記所備付地図データ 公共座標整理状況マップ](https://geolonia.github.io/chiban-zahyo-map/) by Geolonia https://geolonia.github.io/chiban-zahyo-map/
 * [登記所備付地図データダイジェスト](https://github.com/sakaik/kuwanauchi_xml_digest) by sakaik https://github.com/sakaik/kuwanauchi_xml_digest
 

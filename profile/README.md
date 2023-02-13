@@ -20,4 +20,5 @@
 * [登記所備付地図データ 公共座標整理状況マップ](https://geolonia.github.io/chiban-zahyo-map/) by Geolonia https://geolonia.github.io/chiban-zahyo-map/
 
 ## 発表資料
+* [緊急企画：法務省地図XMLハックナイト〜奥深き公図の世界にようこそ〜](https://www.youtube.com/live/1_q18JNoURk?feature=share) by Code for Japan
 * [20230212amx-project](https://speakerdeck.com/tosseto/20230212amx-project) by tosseto

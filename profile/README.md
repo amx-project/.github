@@ -34,3 +34,12 @@
 ## 発表資料
 * [緊急企画：法務省地図XMLハックナイト〜奥深き公図の世界にようこそ〜](https://www.youtube.com/live/1_q18JNoURk?feature=share) by Code for Japan
 * [法務省地図XMLデータ公開の経過と有志によるアダプト活動](https://speakerdeck.com/tosseto/20230212amx-project) by tosseto・地理院地図ファンクラブ2023年2月定例会
+
+---
+
+## その他関連情報
+* [マップルラボ「MAPPLE法務局地図ビューア」](https://labs.mapple.com/mapplexml.html)
+* [登記所備付地図データを扱う上で知っておきたい土地の基礎知識](https://qiita.com/kntoshiya/items/b1472cf8c29ed9b1d706)
+* [SIMA・地籍フォーマット2000・法務省地図XML⇒GIS](https://www.vector.co.jp/soft/winnt/business/se523305.html?ds)
+* [地図太郎ver5.2.0（地図XML対応）リリース](https://www.tcgmap.jp/20230208)
+* [法務省 地図XML フォーマットへの対応｜ArcGISブログ](https://blog.esrij.com/2015/09/10/xml-c617/)

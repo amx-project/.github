@@ -33,4 +33,4 @@
 
 ## 発表資料
 * [緊急企画：法務省地図XMLハックナイト〜奥深き公図の世界にようこそ〜](https://www.youtube.com/live/1_q18JNoURk?feature=share) by Code for Japan
-* [20230212amx-project](https://speakerdeck.com/tosseto/20230212amx-project) by tosseto
+* [法務省地図XMLデータ公開の経過と有志によるアダプト活動](https://speakerdeck.com/tosseto/20230212amx-project) by tosseto・地理院地図ファンクラブ2023年2月定例会
